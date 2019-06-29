@@ -1,0 +1,7 @@
+版本:Unity 2017.4
+
+UWA網址__https://lab.uwa4d.com/lab/5b669520d7f10a201ffc0d23?fbclid=IwAR239KFFkvN393Ycfi1ZB7x6YWluwMINwt1_ay3aqhruq_ycBRlCNXY-KUc
+
+本人Github網址__https://github.com/z1125411235/UWA_LBMFluidSimulation
+
+官方Github網址__https://github.com/mattatz/unity-lbm-fluid-simulation
